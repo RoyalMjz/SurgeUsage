@@ -18,12 +18,18 @@
 
 ## Introduction/介绍
 
+en:
+
 Surge is a network debugging tool on iOS 9, and he has a lot of features, but most people use it for 
 Over the wall and blocking in-app ads.
+
+cn:
 
 Surge是一个在iOS9上的网络调试工具，他有很多功能，但大多数人使用它是为了FQ和屏蔽应用内广告。
 
 ## Features/主要功能
+
+en:
 
 - Intercept HTTP / HTTPS / TCP traffic for all applications on iOS and redirect it to HTTP / HTTPS / SOCK5 proxy forwarding.
 - Overload the DNS server configuration on the iOS cellular network so that the developer can configure the DNS server when the iOS device is working under the cellular network.
@@ -35,6 +41,7 @@ Surge是一个在iOS9上的网络调试工具，他有很多功能，但大多�
 - Block ads based on domain rules.
 - Fully compatible with cellular networks.
 
+cn:
 
 - 截获 iOS 上的所有应用程序的 HTTP/HTTPS/TCP 流量，将其重定向到 HTTP/HTTPS/SOCK5 代理服务器转发。
 - 重载 iOS 蜂窝网络下的 DNS 服务器配置，使得 iOS 设备工作在蜂窝网络之下时，开发者也能够配置 DNS 服务器。
@@ -74,7 +81,11 @@ cn:
 
 ## LICENSE/协议
 
+en:
+
 Surge is licensed under the MIT Open Source license. For more information, please see the LICENSE file in this repository.
+
+cn:
 
 Surge根据MIT开源许可证授权。有关更多信息，请参阅此存储库中的LICENSE文件。
 
