@@ -17,7 +17,7 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/RoyalMjz/Surge/blob/master/License)
 
 
-[`中文文档→`](https://github.com/RoyalMjz/Surge/blob/master/README_CN.md)
+### [`如果你在天朝 →`](https://github.com/RoyalMjz/Surge/blob/master/README_CN.md)
 
 
 ## Introduction
