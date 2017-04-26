@@ -11,19 +11,19 @@
 ```
 
 
-# Surge
+# SurgeUsage
 
 [![Platform](https://img.shields.io/badge/platform-iOS-blue.svg?style=flat)][myGithub]
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/RoyalMjz/Surge/blob/master/License)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/RoyalMjz/SurgeUsage/blob/master/License)
 
 
-### [`如果你在天朝 →`](https://github.com/RoyalMjz/Surge/blob/master/README_CN.md)
+### [`如果你在天朝 →`](https://github.com/RoyalMjz/SurgeUsage/blob/master/README_CN.md)
 
 
 ## Introduction
 
 
-Surge is a network debugging tool on iOS 9, and he has a lot of features, but most people use it for 
+SurgeUsage is a network debugging tool on iOS 9, and he has a lot of features, but most people use it for 
 Over the wall and blocking in-app ads.
 
 
@@ -43,21 +43,21 @@ Over the wall and blocking in-app ads.
 
 ## Usage
 
-![](https://raw.githubusercontent.com/RoyalMjz/Surge/master/images/step.png)
+![](https://raw.githubusercontent.com/RoyalMjz/SurgeUsage/master/images/step.png)
 
 
 1. Open the app
 
 2. Click`Download Configuration from URL`
 
-3. Input`https://raw.githubusercontent.com/RoyalMjz/Surge/master/Surge.conf`
+3. Input`https://raw.githubusercontent.com/RoyalMjz/SurgeUsage/master/Surge.conf`
 
 4. Click `OK`
 
 
 ## LICENSE
 
-Surge is licensed under the MIT Open Source license. For more information, please see the LICENSE file in this repository.
+SurgeUsage is licensed under the MIT Open Source license. For more information, please see the LICENSE file in this repository.
 
 
-[myGithub]: https://github.com/RoyalMjz/Surge
+[myGithub]: https://github.com/RoyalMjz/SurgeUsage

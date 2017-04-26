@@ -11,18 +11,18 @@
 ```
 
 
-# Surge
+# SurgeUsage
 
 [![Platform](https://img.shields.io/badge/platform-iOS-blue.svg?style=flat)][myGithub]
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/RoyalMjz/Surge/blob/master/License)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/RoyalMjz/SurgeUsage/blob/master/License)
 
 
-[`English→`](https://github.com/RoyalMjz/Surge/blob/master/README.md)
+[`English→`](https://github.com/RoyalMjz/SurgeUsage/blob/master/README.md)
 
 
 ## 介绍
 
-Surge是一个在iOS9上的网络调试工具，他有很多功能，但大多数人使用它是为了FQ和屏蔽应用内广告。
+SurgeUsage是一个在iOS9上的网络调试工具，他有很多功能，但大多数人使用它是为了FQ和屏蔽应用内广告。
 
 ## 主要功能
 
@@ -39,21 +39,21 @@ Surge是一个在iOS9上的网络调试工具，他有很多功能，但大多�
 
 ## 用法
 
-![](https://raw.githubusercontent.com/RoyalMjz/Surge/master/images/step.png)
+![](https://raw.githubusercontent.com/RoyalMjz/SurgeUsage/master/images/step.png)
 
 
 1. 打开应用程序
 
 2. 点击`Download Configuration from URL`
 
-3. 输入`https://raw.githubusercontent.com/RoyalMjz/Surge/master/Surge.conf`
+3. 输入`https://raw.githubusercontent.com/RoyalMjz/SurgeUsage/master/Surge.conf`
 
 4. 点击`OK`
 
 
 ## 协议
 
-Surge根据MIT开源许可证授权。有关更多信息，请参阅此存储库中的LICENSE文件。
+SurgeUsage根据MIT开源许可证授权。有关更多信息，请参阅此存储库中的LICENSE文件。
 
 
-[myGithub]: https://github.com/RoyalMjz/Surge
+[myGithub]: https://github.com/RoyalMjz/SurgeUsage
